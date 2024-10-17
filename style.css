@@ -1,0 +1,32 @@
+h2{
+	color: red;
+	text-align:center;
+}
+h4{
+	color: blue;
+	text-align:center;
+}
+div{
+	font-family:Arial;
+	font-weight:bold;
+	font-size:20px;
+	text-align:center
+}
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	background-color:green;
+}
+td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:5px;	
+}
+#zoe{
+}
+#ht{
+	font-family:italic;
+	color:green;
+}	
+	
+
